@@ -12,6 +12,4 @@ I'm using typescript, react and css.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [BYU CSE 310](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html)
